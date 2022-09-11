@@ -6,7 +6,7 @@
 
 ### Cloning the repository
 
---> Clone the repository using the command below :
+--> Clone the repository using the command below:
 ```bash
 git clone https://github.com/divanov11/StudyBud.git
 
